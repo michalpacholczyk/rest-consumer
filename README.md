@@ -5,7 +5,7 @@ Aplikacja została zbudowana z wykorzystaniem frameworku Spring / Spring Boot.
 Kod aplikacji został pokryty testami jednostkowymi i itegracyjnymi.
 
 ### Opis API
-Web service posiada 4 końcówki (1. będąca podstawową treścią zadania, oraz 3 dodatkowe).
+Web service posiada 4 końcówki.
 Odpowiedzi zwracane są w formacie JSON. Lista końcówek::
 * <b>/currency/analyze/usd</b>
 * <b>/currency/{currency}/{startDate}/{endDate}</b>
